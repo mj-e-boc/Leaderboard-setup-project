@@ -16,26 +16,40 @@
 - [❓ FAQ ](#faq)
 - [📝 License](#license)
 
-# 📖 Leaderboard <a name="about-project"></a>
+# 📖 Warehouse Inventory Management and Optimization Dashboard <a name="about-project"></a>
 
-The leaderboard is board for displaying the ranking of the leaders in a competitive event built with HTML, CSS and Javascript.
+The **Warehouse Inventory Management and Optimization Dashboard** is a Python-based project designed to simplify warehouse inventory management. By using predictive analytics, optimization techniques, and interactive visualizations, it helps stakeholders make data-driven decisions, reduce costs, and improve efficiency.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Frontend</summary>
+  <summary>Backend</summary>
   <ul>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+    <li><a href="https://www.python.org/">Python</a></li>
+    <li><a href="https://www.mysql.com/">MySQL</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Libraries</summary>
+  <ul>
+    <li>Pandas</li>
+    <li>NumPy</li>
+    <li>Matplotlib</li>
+    <li>Plotly/Dash</li>
+    <li>Scikit-learn</li>
+    <li>SQLAlchemy</li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- Shows the names of the competitors and the respective scores 
+- Predict future inventory demand to avoid shortages or overstocking.
+- Optimize inventory strategies using linear programming.
+- Provide interactive dashboards to visualize data trends and key performance indicators (KPIs).
+- Integrate MySQL for reliable data storage and querying.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -47,7 +61,9 @@ The leaderboard is board for displaying the ranking of the leaders in a competit
 
 In order to run this project you need:
 
-- A computer with terminal
+- Python 3.8 or higher
+- MySQL Workbench
+- A terminal or command-line interface
 
 ### Setup
 
@@ -68,6 +84,19 @@ cd folder-name
 - GitHub: [@mj-e-boc](https://github.com/mj-e-boc)
 - Twitter: [@mjononoronald](https://twitter.com/Mjononoronald)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ronald-mjonono-86365988/)
+
+
+👤 **Mzingaye Khumalo**
+
+- GitHub: []()
+- Twitter: []()
+- LinkedIn: [LinkedIn]()
+
+👤 **Langelihle Magwali**
+
+- GitHub: []()
+- Twitter: []()
+- LinkedIn: [LinkedIn]()
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
